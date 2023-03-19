@@ -1,0 +1,11 @@
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\bin\Debug\oaip8laba.exe.config
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\bin\Debug\oaip8laba.exe
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\bin\Debug\oaip8laba.pdb
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.csproj.AssemblyReference.cache
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.csproj.SuggestedBindingRedirects.cache
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.Form1.resources
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.Properties.Resources.resources
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.csproj.GenerateResource.cache
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.csproj.CoreCompileInputs.cache
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.exe
+C:\Users\elnar\source\repos\oaip8laba\oaip8laba\obj\Debug\oaip8laba.pdb
