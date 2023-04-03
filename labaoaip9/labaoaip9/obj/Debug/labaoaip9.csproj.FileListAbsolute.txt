@@ -1,0 +1,11 @@
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\bin\Debug\labaoaip9.exe.config
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\bin\Debug\labaoaip9.exe
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\bin\Debug\labaoaip9.pdb
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.csproj.AssemblyReference.cache
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.csproj.SuggestedBindingRedirects.cache
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.Form1.resources
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.Properties.Resources.resources
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.csproj.GenerateResource.cache
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.csproj.CoreCompileInputs.cache
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.exe
+C:\Users\elnar\source\repos\labaoaip9\labaoaip9\obj\Debug\labaoaip9.pdb
